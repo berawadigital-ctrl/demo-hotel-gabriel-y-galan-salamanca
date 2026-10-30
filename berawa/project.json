@@ -1,0 +1,64 @@
+{
+ "schema": "berawa-project/1",
+ "slug": "demo-hotel-gabriel-y-galan-salamanca",
+ "template_version": "webfactory-2026.10.28+modelo-cazorla-6cfa67d",
+ "created_at": "2026-10-30T09:10:00+01:00",
+ "updated_at": "2026-10-30T09:25:00+01:00",
+ "business": {
+  "name": "Hotel Gabriel y Galán",
+  "legal_name": "AFI HOTELES S.L.",
+  "registry_ids": [
+   "B70960943"
+  ],
+  "url": "https://hotelgabrielygalan.com/",
+  "domain": "hotelgabrielygalan.com",
+  "municipality": "Salamanca",
+  "province": "Salamanca",
+  "address": "Plaza Gabriel y Galán 3 · 37005 Salamanca",
+  "phones": [
+   "923 671 155",
+   "642 513 046"
+  ],
+  "emails": [
+   "reservas@hotelgabrielygalan.com"
+  ],
+  "sector": "hotel urbano de 28 habitaciones en el centro de Salamanca"
+ },
+ "rating": {
+  "value": 4.4,
+  "source": "Google Maps (maps_rating.py, ficha comprobada por telefono, web)",
+  "url": "https://www.google.com/maps/place/HOTEL+GABRIEL+Y+GALAN/@40.9701976,-5.662083,17z/data=!4m9!3m8!1s0xd3f276698bb102d:0xabc72a5d325e9422!5m2!4m1!1i2!8m2!3d40.9701976!4d-5.662083!16s%2Fg%2F11vz7czy9q",
+  "date": "2026-10-29T12:59:41+01:00",
+  "threshold": 4.0
+ },
+ "languages": [
+  "es",
+  "en",
+  "fr",
+  "de"
+ ],
+ "noindex": true,
+ "notice_es": "Propuesta de rediseño independiente, no oficial",
+ "chatbot": {
+  "api": false,
+  "kind": "base local de respuestas verificadas",
+  "knowledge": "berawa/knowledge.json",
+  "fallback_es": "No dispongo de esa información"
+ },
+ "book": {
+  "mode": "engine",
+  "url": "https://hotelgabrielygalan.com/reservas/",
+  "note": "motor de reservas real de su web (página /reservas/ con el motor embebido «Disponibilidad y reservas»), HTTP 200 comprobado el 30/10/2026; su web solo está en español, mismo enlace en los 4 idiomas."
+ },
+ "audit_original": {
+  "url": "https://hotelgabrielygalan.com/",
+  "date": "2026-10-30T09:06:08+01:00",
+  "veredicto": "LCP > 4 s",
+  "tool": "filtro_mala_web.py (Lighthouse movil, mediana de 3 pasadas)"
+ },
+ "first_of_type": "no aplica: alojamiento con precedente en demos anteriores",
+ "codex": {
+  "audits": []
+ },
+ "changes_log": "ver CORRECCIONES.md (si existe) y berawa/V1.0-CAMBIOS.md"
+}

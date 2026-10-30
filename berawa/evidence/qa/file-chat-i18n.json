@@ -1,0 +1,371 @@
+{
+ "url": "file:///tmp/clon-hotel-gabriel-y-galan-salamanca/repo/index.html",
+ "langs": {
+  "es": {
+   "textos_iguales_al_es": [],
+   "chat": [
+    {
+     "q": "¿Qué habitaciones tenéis?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Hay 28 habitaciones recientemente reformadas: individual (1 persona, cama individual), doble (máximo 2 personas, 2 camas individuales) y de "
+    },
+    {
+     "q": "¿A qué hora es el check-in?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "El check-in es de 14:00 a 22:00 y el check-out antes de las 12:00. La recepción atiende de 09:00 a 22:00. Conviene avisar de la hora estimad"
+    },
+    {
+     "q": "¿Hay parking?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Se puede llegar en coche hasta la puerta, donde hay una zona para una parada breve y descargar el equipaje. Hay zona azul y verde y tres par"
+    },
+    {
+     "q": "¿Hay wifi?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Sí, wifi gratuito las 24 horas en todas las instalaciones."
+    },
+    {
+     "q": "¿Tenéis cuna para el bebé?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Hay cunas gratuitas, sujetas a disponibilidad: pídela al reservar. También se puede añadir una cama supletoria bajo petición, con coste adic"
+    },
+    {
+     "q": "¿Puedo dejar las maletas?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Sí, el último día puedes dejar el equipaje en consigna para seguir disfrutando de la ciudad hasta tu partida. Además, en la puerta hay un va"
+    },
+    {
+     "q": "¿Dónde está el hotel?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Está en la Plaza Gabriel y Galán 3, 37005 Salamanca, en el corazón de la ciudad, donde cada rincón se descubre caminando."
+    },
+    {
+     "q": "¿Cómo reservo?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Puedes reservar y ver precio y disponibilidad en el motor de su web (botón Reservar), escribir a reservas@hotelgabrielygalan.com o llamar al"
+    },
+    {
+     "q": "¿Podéis confirmarme disponibilidad para mañana?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Puedes reservar y ver precio y disponibilidad en el motor de su web (botón Reservar), escribir a reservas@hotelgabrielygalan.com o llamar al"
+    },
+    {
+     "q": "¿Qué tarjetas aceptáis?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Aceptan pagos con Visa, Mastercard y Red 6000."
+    },
+    {
+     "q": "¿Trabajáis con empresas?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Sí, diseñan alianzas corporativas a medida para viajes de negocios: puedes pedir información al hotel."
+    },
+    {
+     "q": "¿Tenéis piscina?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: 923 671 155 · 642 513 046 · reservas@hotelgabrielygalan.com."
+    },
+    {
+     "q": "¿Hay gimnasio?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: 923 671 155 · 642 513 046 · reservas@hotelgabrielygalan.com."
+    }
+   ],
+   "chips": [
+    "¿Qué habitaciones tenéis?",
+    "¿A qué hora es el check-in?",
+    "¿Hay parking?",
+    "¿Cómo reservo?"
+   ]
+  },
+  "en": {
+   "textos_iguales_al_es": [
+    "hero_k",
+    "intro_k"
+   ],
+   "chat": [
+    {
+     "q": "Which rooms do you have?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "There are 28 recently renovated rooms: single (1 person, single bed), twin (up to 2 people, 2 single beds) and double (2 people, double bed)"
+    },
+    {
+     "q": "What time is check-in?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Check-in is from 14:00 to 22:00 and check-out before 12:00. Reception is open from 09:00 to 22:00. Please let them know your estimated arriv"
+    },
+    {
+     "q": "Is there parking?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "You can drive up to the door, where there is a short-stop area to unload luggage. There is regulated blue and green zone parking and three c"
+    },
+    {
+     "q": "Is there wifi?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Yes, free wifi 24 hours a day throughout the hotel."
+    },
+    {
+     "q": "Do you have a cot for the baby?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Free cots are available, subject to availability: request one when booking. An extra bed can also be added on request at an additional cost;"
+    },
+    {
+     "q": "Can I leave my luggage?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Yes, on your last day you can leave your luggage in storage and keep enjoying the city until you leave. There is also a loading bay at the d"
+    },
+    {
+     "q": "Where is the hotel?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "It is at Plaza Gabriel y Galán 3, 37005 Salamanca, in the heart of the city, where every corner can be discovered on foot."
+    },
+    {
+     "q": "How do I book?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "You can book and see price and availability in the engine on their website (Book button), write to reservas@hotelgabrielygalan.com or call 9"
+    },
+    {
+     "q": "Can you confirm availability for tomorrow?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "You can book and see price and availability in the engine on their website (Book button), write to reservas@hotelgabrielygalan.com or call 9"
+    },
+    {
+     "q": "Which cards do you accept?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "They accept Visa, Mastercard and Red 6000."
+    },
+    {
+     "q": "Do you have rates for companies?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Yes, they design tailored corporate agreements for business travel: you can ask the hotel for information."
+    },
+    {
+     "q": "Do you have a swimming pool?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: 923 671 155 · 642 513 046 · reservas@hotelgabrielygalan.com."
+    },
+    {
+     "q": "Is there a gym?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: 923 671 155 · 642 513 046 · reservas@hotelgabrielygalan.com."
+    }
+   ],
+   "chips": [
+    "Which rooms do you have?",
+    "What time is check-in?",
+    "Is there parking?",
+    "How do I book?"
+   ]
+  },
+  "fr": {
+   "textos_iguales_al_es": [
+    "intro_k"
+   ],
+   "chat": [
+    {
+     "q": "Quelles chambres avez-vous ?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Il y a 28 chambres récemment rénovées : individuelle (1 personne, lit simple), twin (2 personnes maximum, 2 lits simples) et double (2 perso"
+    },
+    {
+     "q": "À quelle heure est le check-in ?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Le check-in se fait de 14:00 à 22:00 et le check-out avant 12:00. La réception est ouverte de 09:00 à 22:00. Merci d’indiquer votre heure d’"
+    },
+    {
+     "q": "Y a-t-il un parking ?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "On peut arriver en voiture jusqu’à la porte, où une zone permet un arrêt bref pour décharger. Il y a du stationnement réglementé (zones bleu"
+    },
+    {
+     "q": "Y a-t-il le wifi ?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Oui, wifi gratuit 24 h/24 dans tout l’hôtel."
+    },
+    {
+     "q": "Avez-vous un lit bébé ?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Des lits bébé gratuits sont disponibles, selon disponibilité : demandez-le en réservant. Un lit supplémentaire peut aussi être ajouté sur de"
+    },
+    {
+     "q": "Puis-je laisser mes bagages ?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Oui, le dernier jour vous pouvez laisser vos bagages en consigne pour profiter de la ville jusqu’au départ. Il y a aussi un arrêt devant la "
+    },
+    {
+     "q": "Où se trouve l'hôtel ?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Il se trouve Plaza Gabriel y Galán 3, 37005 Salamanque, au cœur de la ville, où tout se découvre à pied."
+    },
+    {
+     "q": "Comment réserver ?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Vous pouvez réserver et voir prix et disponibilité dans le moteur de leur site (bouton Réserver), écrire à reservas@hotelgabrielygalan.com o"
+    },
+    {
+     "q": "Pouvez-vous me confirmer la disponibilité pour demain ?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Vous pouvez réserver et voir prix et disponibilité dans le moteur de leur site (bouton Réserver), écrire à reservas@hotelgabrielygalan.com o"
+    },
+    {
+     "q": "Quelles cartes acceptez-vous ?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Ils acceptent Visa, Mastercard et Red 6000."
+    },
+    {
+     "q": "Avez-vous des offres pour les entreprises ?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Oui, ils proposent des accords d’entreprise sur mesure pour les voyages d’affaires : demandez des informations à l’hôtel."
+    },
+    {
+     "q": "Avez-vous une piscine ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : 923 671 155 · 642 513 046 · reservas@hotelgabrielygalan.com."
+    },
+    {
+     "q": "Y a-t-il une salle de sport ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : 923 671 155 · 642 513 046 · reservas@hotelgabrielygalan.com."
+    }
+   ],
+   "chips": [
+    "Quelles chambres avez-vous ?",
+    "À quelle heure est le check-in ?",
+    "Y a-t-il un parking ?",
+    "Comment réserver ?"
+   ]
+  },
+  "de": {
+   "textos_iguales_al_es": [
+    "hero_k",
+    "intro_k"
+   ],
+   "chat": [
+    {
+     "q": "Welche Zimmer gibt es?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Es gibt 28 kürzlich renovierte Zimmer: Einzelzimmer (1 Person, Einzelbett), Zweibettzimmer (höchstens 2 Personen, 2 Einzelbetten) und Doppel"
+    },
+    {
+     "q": "Wann ist der Check-in?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Check-in von 14:00 bis 22:00 Uhr, Check-out vor 12:00 Uhr. Die Rezeption ist von 09:00 bis 22:00 Uhr besetzt. Bitte teilen Sie Ihre voraussi"
+    },
+    {
+     "q": "Gibt es einen Parkplatz?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Sie können bis vor die Tür fahren, wo kurz zum Ausladen gehalten werden kann. Es gibt gebührenpflichtige blaue und grüne Zonen und drei Park"
+    },
+    {
+     "q": "Gibt es WLAN?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Ja, kostenloses WLAN rund um die Uhr im ganzen Hotel."
+    },
+    {
+     "q": "Haben Sie ein Kinderbett?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Kostenlose Kinderbetten gibt es je nach Verfügbarkeit: bitte bei der Buchung anfragen. Ein Zustellbett ist auf Anfrage gegen Aufpreis möglic"
+    },
+    {
+     "q": "Kann ich mein Gepäck abgeben?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Ja, am Abreisetag können Sie Ihr Gepäck abgeben und die Stadt bis zur Abreise genießen. Vor der Tür gibt es außerdem eine Ladezone für Ihren"
+    },
+    {
+     "q": "Wo liegt das Hotel?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Es liegt an der Plaza Gabriel y Galán 3, 37005 Salamanca, im Herzen der Stadt, wo sich alles zu Fuß entdecken lässt."
+    },
+    {
+     "q": "Wie kann ich buchen?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Sie können über die Buchungsmaschine der Website (Schaltfläche Buchen) buchen und Preis und Verfügbarkeit sehen, an reservas@hotelgabrielyga"
+    },
+    {
+     "q": "Können Sie mir die Verfügbarkeit für morgen bestätigen?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Sie können über die Buchungsmaschine der Website (Schaltfläche Buchen) buchen und Preis und Verfügbarkeit sehen, an reservas@hotelgabrielyga"
+    },
+    {
+     "q": "Welche Karten akzeptieren Sie?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Akzeptiert werden Visa, Mastercard und Red 6000."
+    },
+    {
+     "q": "Gibt es Angebote für Firmen?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Ja, es gibt maßgeschneiderte Firmenvereinbarungen für Geschäftsreisen: Informationen erhalten Sie beim Hotel."
+    },
+    {
+     "q": "Haben Sie ein Schwimmbad?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Diese Information liegt mir nicht vor. Schreiben oder rufen Sie uns an: 923 671 155 · 642 513 046 · reservas@hotelgabrielygalan.com."
+    },
+    {
+     "q": "Gibt es ein Fitnessstudio?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Diese Information liegt mir nicht vor. Schreiben oder rufen Sie uns an: 923 671 155 · 642 513 046 · reservas@hotelgabrielygalan.com."
+    }
+   ],
+   "chips": [
+    "Welche Zimmer gibt es?",
+    "Wann ist der Check-in?",
+    "Gibt es einen Parkplatz?",
+    "Wie kann ich buchen?"
+   ]
+  }
+ },
+ "fail": [],
+ "ok": true
+}

@@ -1,0 +1,48 @@
+{
+ "schema": "berawa-sources/1",
+ "site": "https://hotelgabrielygalan.com/",
+ "read_at": "2026-10-30T09:11:00+01:00",
+ "method": "Texto visible de cada pagina leido de la web publica del negocio en la fecha indicada (fetch_sources.py) y guardado en berawa/evidence/source-text.json; las citas del chatbot se comprueban contra ese texto con check_kb.py.",
+ "pages": [
+  {
+   "url": "https://hotelgabrielygalan.com/",
+   "sha256": "bd006da1a696bca6be2ad48a0ef7a75ddc5ee72e39867c93cb86aee127266d42",
+   "chars": 7684
+  },
+  {
+   "url": "https://hotelgabrielygalan.com/dudas-frecuentes/",
+   "sha256": "308a5b12f2bf4980df19b66a0e9e3c74f466f07cc0e710e1c5ba9485689c87bc",
+   "chars": 5518
+  },
+  {
+   "url": "https://hotelgabrielygalan.com/habitaciones/",
+   "sha256": "2fc290658812a8ebaf3dba0e22869a51223a98dd02d2809501b87af3f8223818",
+   "chars": 5805
+  },
+  {
+   "url": "https://hotelgabrielygalan.com/politica-de-cancelacion-y-modificacion/",
+   "sha256": "1692bbcef0cb12188f8a8eab7773abe6e5eac27d0aaa6a547d5001fce5660510",
+   "chars": 5270
+  },
+  {
+   "url": "https://hotelgabrielygalan.com/reservas/",
+   "sha256": "3194dae05bbf5f83bf17e6905d0d1339997f20eadda58e9aee74f595e72caf3e",
+   "chars": 2785
+  }
+ ],
+ "other_pages_read": [
+  "https://hotelgabrielygalan.com",
+  "https://hotelgabrielygalan.com/accesibilidad/",
+  "https://hotelgabrielygalan.com/aparcamiento/",
+  "https://hotelgabrielygalan.com/aviso-legal/",
+  "https://hotelgabrielygalan.com/conocenos/",
+  "https://hotelgabrielygalan.com/contacto/",
+  "https://hotelgabrielygalan.com/entorno/",
+  "https://hotelgabrielygalan.com/galeria/",
+  "https://hotelgabrielygalan.com/habitaciones/habitacion-doble/",
+  "https://hotelgabrielygalan.com/habitaciones/habitacion-individual/",
+  "https://hotelgabrielygalan.com/habitaciones/habitacion-matrimonio/",
+  "https://hotelgabrielygalan.com/politica-de-cookies/",
+  "https://hotelgabrielygalan.com/politica-de-privacidad/"
+ ]
+}
